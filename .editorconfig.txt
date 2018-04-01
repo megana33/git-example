@@ -1,0 +1,4 @@
+root = true
+
+[*.md]
+trim_trailinh_whitespace = false
